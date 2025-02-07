@@ -28,7 +28,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<<<<<<< HEAD
 
+=======
+>>>>>>> a280afeb67c1438891d00038a3db3800dd109087
 <build>
     <plugins>
         <plugin>
@@ -36,8 +39,13 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.8.1</version>
             <configuration>
+<<<<<<< HEAD
                 <source>11</source>
                 <target>11</target>
+=======
+                <source>17</source>
+                <target>17</target>
+>>>>>>> a280afeb67c1438891d00038a3db3800dd109087
             </configuration>
         </plugin>
 
@@ -49,4 +57,8 @@
 </build>
 
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> a280afeb67c1438891d00038a3db3800dd109087
