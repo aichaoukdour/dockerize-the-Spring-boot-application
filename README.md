@@ -111,7 +111,7 @@ docker push username/my-spring-boot-app
 
 Replace `username` with your Docker Hub username.
 
-![Uploading image.png…]()
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/dd09ef63-8c27-4c10-946d-406b4c8f1ddc" />
 
 ## Conclusion
 
