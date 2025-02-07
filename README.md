@@ -16,6 +16,9 @@ Just go to (https://start.spring.io/) and generate a new spring boot project.
 
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/ffe06d95-d7d7-4174-8852-ee0a343729dd" />
 
+### 2. Build a simple REST API
+
+view code file : SpringbootDockerDemoApplication 
 In the root directory of your Spring Boot project, create a file named `Dockerfile` with the following content:
 
 ```dockerfile
