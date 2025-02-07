@@ -27,6 +27,7 @@ Before creating a Docker image, build the Spring Boot application using Maven:
 ```sh
 mvn clean package
 ```
+Once maven build success, go target folder and you will be able to see the springboot-docker-demo-0.0.1-
 
 In the root directory of your Spring Boot project, create a file named `Dockerfile` with the following content:
 
