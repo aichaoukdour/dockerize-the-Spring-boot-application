@@ -19,6 +19,15 @@ Just go to (https://start.spring.io/) and generate a new spring boot project.
 ### 2. Build a simple REST API
 
 view code file : SpringbootDockerDemoApplication 
+
+### 3. Open terminal and run this commande 
+
+Before creating a Docker image, build the Spring Boot application using Maven:
+
+```sh
+mvn clean package
+```
+
 In the root directory of your Spring Boot project, create a file named `Dockerfile` with the following content:
 
 ```dockerfile
